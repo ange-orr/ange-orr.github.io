@@ -2,7 +2,7 @@ body {
   margin: 0;
   height: 100vh;
   background: url("IMG_3475.jpg") no-repeat center center fixed;
-  background-size: 50% auto;
+  background-size: 100px 100px;
   display: flex;
   justify-content: center;
   align-items: center;
