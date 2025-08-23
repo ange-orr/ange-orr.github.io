@@ -44,9 +44,9 @@ body {
 }
 
 .body-text {
-  font-size: 1.2em;
-  font-weight: 400;     /* normal weight */
-  line-height: 1.6;
+  font-size: 1em;
+  font-weight: 500;     /* normal weight */
+  line-height: 1;
   margin-bottom: 1em;
 }
 
