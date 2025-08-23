@@ -2,14 +2,14 @@ body {
   margin: 0;
   height: 100vh;
   background: url("IMG_3475.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background-size: contain;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .content {
-  text-align: center;
+  text-align: left;
   color: white;
   background: rgba(0,0,0,0.5); /* semi-transparent box */
   padding: 20px;
