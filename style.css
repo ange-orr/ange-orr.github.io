@@ -39,7 +39,7 @@ body {
 .subtitle {
   font-size: 2em;
   font-weight: 700;     /* bold */
-  color: #ffd700;       /* gold accent */
+  color: #fff;       /* gold accent */
   margin-bottom: 0.5em;
 }
 
@@ -52,7 +52,7 @@ body {
 
 .highlight {
   font-weight: 700;
-  color: #ff4500;       /* orange-red highlight */
+  color: #fff;       /* orange-red highlight */
   background: rgba(255, 255, 255, 0.2); /* subtle box */
   padding: 2px 6px;
   border-radius: 4px;
